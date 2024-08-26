@@ -1,4 +1,5 @@
 ![MasterHeader](./github-header-image.png)
+<img align="right" alt="Coding" width="400" src="Coding-image.png">
 <h1 align="center">Hi 👋, I'm Mitesh Bhattad</h1>
 <h3 align="center">A passionate developer from India who specializes in Machine learning and Web Development. I am enthusiastic for any new technology and development. Here are some of my finished projects, currently ongoing are private;></h3>
 
