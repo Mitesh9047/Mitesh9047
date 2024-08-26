@@ -1,7 +1,8 @@
 ![MasterHeader](./github-header-image.png)
+<br>
 <img align="right" alt="Coding" width="400" src="Coding-image.png">
 <h1 align="center">Hi 👋, I'm Mitesh Bhattad</h1>
-<h3 align="center">A passionate developer from India who specializes in Machine learning and Web Development. I am enthusiastic for any new technology and development. Here are some of my finished projects, currently ongoing are private;></h3>
+<h3 align="left">A passionate developer from India who specializes in Machine learning and Web Development. I am enthusiastic for any new technology and development. Here are some of my finished projects, currently ongoing are private ;></h3>
 
 - 🔭 I’m currently working on **Phonotic-Morpher**
 
@@ -9,7 +10,7 @@
 
 - 💬 Ask me about **ML, CP, C++, React and Python.**
 
-- ⚡ Fun fact **I am also currently working on a project affiliated with ISRO but yet to be reviewed.**
+- ⚡ Fun fact **I am also currently working on a project affiliated with ISRO but yet to be approved.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
